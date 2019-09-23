@@ -1,0 +1,11 @@
+.Picture{
+    width: 40%;
+    border-radius: 70%;
+margin: 100px 
+}
+.Picture:hover {
+    
+    transform:rotate(360deg);
+  transition:transform 60s
+
+}
